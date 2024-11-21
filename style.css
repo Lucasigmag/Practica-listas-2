@@ -1,0 +1,16 @@
+h1#titulo{
+    text-align: center;
+}
+
+body#back{
+    background-color:cornsilk;
+}
+
+img.ima{
+    width: 150px;
+    height: 150px;
+}
+img.imag{
+    width: 200px;
+    height: 200px;
+}
